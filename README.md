@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 🧙‍♂️ Alencar Souza </h1>
 
-![github_cover_banner](.github/images/banner.jpg)
+![github_cover_banner](https://user-images.githubusercontent.com/1081329/234019816-592fe1c3-e1a4-4bfd-a992-781f89c566bb.jpg)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Code by day, climb by weekend, fly by choice - that's me! As an athletic software and infrastructure engineer with over 15 years of experience, I'm always chasing new trends and technologies. But what really gets me going is mentoring developers - I'm a firm believer that the best way to grow is by sharing knowledge. When I'm not coding or teaching, you can find me pushing my limits in triathlons, scaling mountains or soaring through the skies with my paraglider. Want to join me on this wild ride? Let's connect and see where our next adventure takes us!
